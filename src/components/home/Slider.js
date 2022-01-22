@@ -8,7 +8,7 @@ const Slider = () => {
         <div className="slider">
 
 
-            <Container >
+            <Container  >
                 <Row>
 
                     <Col lg={{span:7, order:"last"}}>   
